@@ -1,0 +1,58 @@
+#principal{
+    background:rgb(33, 33, 33);
+    width: 100%;
+    height: 30%;
+    display: inline-block;
+}#texto{
+    color: rgb(255, 0, 0);
+    max-width: 16%;
+    float: left;
+    margin-left: 3.5%;
+
+}#botaoSair{
+    font-size: 10px;
+    width: 50px;
+    height: 30px;
+    background: rgb(204, 0, 0);
+    border: 1px solid black;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    float: right;
+    margin-top: 3.5%;
+    margin-right: 3.5%;
+
+}#botaoLogin{
+    font-size: 10px;
+    width: 90px;
+    height: 30px;
+    background: rgb(82,177,221);
+    border: 1px solid black;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    float: right;
+    margin-top: 3.5%;
+    margin-right: 3.5%;
+
+}#segunda{
+    width: 15%;
+    background:rgb(60, 60, 60);
+    font-size: 30px;
+    height: 100pc;
+    text-shadow: 0 0 black;
+    padding: 0px;
+    padding-left: 0px;
+    float: left;
+}#conteudo{
+    width: 84.84%;
+    height: 99.88pc;
+    background: rgb(255,255,255);
+    float: left; 
+    border: 1px solid black;
+}#item{
+    background: rgb(204, 204, 204);
+    width: 100%;
+    height: 3%;
+    text-align: left;
+    border: 1px solid black;
+}
+
