@@ -43,12 +43,14 @@
     padding: 0px;
     padding-left: 0px;
     float: left;
+    display: inline-block;
 }#conteudo{
     width: 78.5%;
-    height: 99.88pc;
+    height: 100pc;
     background: rgb(255,255,255);
     float: left; 
     border: 1px solid black;
+    
 }#item{
     background: rgb(204, 204, 204);
     width: 100%;
@@ -57,4 +59,26 @@
     font-size: 20px;
     border: 1px solid black;
 }
+.fieldset-border {
+    height: 200px;
+    width: 500px;
+    border: 1px groove #ddd !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 50px 0 20px 20px !important;
+    -webkit-box-shadow: 0px 0px 0px 0px #000;
+    box-shadow: 0px 0px 0px 0px #000;
+    float: left;
+}
 
+.fieldset-border .legend-border {
+    font-size: 1.2em !important;
+    text-align: left !important;
+   
+    padding: 0 10px;
+    border-bottom: none;
+}
+.menu{
+    
+}
+
+s
